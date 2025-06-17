@@ -49,5 +49,6 @@ Click [**here**](./computer_science/) to see more for **Computer Science** proje
 
 ---
 
-### 🙏 Thank You
+### 🙏 Thank You [CODECADEMY](http://www.codecademy.com/)
+
 I want to express my sincere gratitude to [**Codecademy**](http://www.codecademy.com/) for their *excellent learning platform*, *quality courses*, and the opportunity to enhance my coding skills. The knowledge and experience gained from [**Codecademy**](http://www.codecademy.com/) have significantly contributed to creating these projects and developing my abilities.
