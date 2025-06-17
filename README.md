@@ -1,6 +1,6 @@
 # 📚 Codecademy Solutions
 
-![alt text](./codecademy.png)
+![alt text](./image/codecademy.png)
 
 ## 📗 Introduction
 
