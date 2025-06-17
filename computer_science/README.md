@@ -1,6 +1,8 @@
 
 # 📂 Computer Science
 
+![alt text](image.png)
+
 Below is a list of all Computer Science projects available in this repository.
 
  Project Name | Description| Technologies Used | Folder |
@@ -24,6 +26,6 @@ Below is a list of all Computer Science projects available in this repository.
 
 --- 
 
-### 🙏 Thank You @Codecademy
+### 🙏 Thank You
 
 I want to express my sincere gratitude to [Codecademy](http://www.codecademy.com/) for their excellent learning platform, quality courses, and the opportunity to enhance my coding skills. The knowledge and experience gained from [Codecademy](http://www.codecademy.com/) have significantly contributed to creating these projects and developing my abilities.

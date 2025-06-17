@@ -47,6 +47,7 @@ Below is a list of all Computer Science projects available in this repository.
 
 Click [here](./computer_science/) to see more for Computer Science projects.
 
-### 🙏 Thank You @Codecademy
+---
 
+### 🙏 Thank You
 I want to express my sincere gratitude to [Codecademy](http://www.codecademy.com/) for their excellent learning platform, quality courses, and the opportunity to enhance my coding skills. The knowledge and experience gained from [Codecademy](http://www.codecademy.com/) have significantly contributed to creating these projects and developing my abilities.
