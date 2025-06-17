@@ -1,7 +1,4 @@
-
 # 📂 Computer Science
-
-![alt text](image.png)
 
 Below is a list of all Computer Science projects available in this repository.
 
