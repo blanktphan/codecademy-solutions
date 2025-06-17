@@ -16,6 +16,9 @@ Below is a list of all Computer Science projects available in this repository.
 | **Bicycle World** | Welcome to Bicycle World, the premier text-based bicycle shop! This shop is only accessible to programmers like you, who are familiar with the command line. | `Command Line Interface`, `Bash`  | [Open](./09-bicycle-world/) |
 | **Manhattan Zoo** | In this project, you’ll use Git to keep track of meal guidelines for animals at the Manhattan Zoo. | `Command Line Interface`, `Git` | [Open](./10-manhattan-zoo/) |
 | **SnapFit Robots, Inc.** | Now that you’ve had more practice with the Git workflow, let’s solidify your new skills even more. | `Command Line Interface`, `Git` | [Open](./11-snapfit-robots-inc/) |
-| **The Boredless Tourist** | In this project, you'll use Python, Git, and the Command Line to make a tourism recommendation service. | `Programming`, `Python`, `Command Line Interface`, `Git` | [Open](./03-magic-8-ball/) |
-
+| **The Boredless Tourist** | In this project, you'll use Python, Git, and the Command Line to make a tourism recommendation service. | `Programming`, `Python`, `Command Line Interface`, `Git` | [Open](./12-the-boredless-tourist/) |
+| **Thread Shed** | You’ve recently been hired as a cashier at the local sewing hobby shop, Thread Shed. Some of your daily responsibilities involve tallying the number of sales during the day, calculating the total amount of money made, and keeping track of the names of the customers. | `Programming`, `Python` | [Open](./13-thread-shed/) |
+| **Scrabble** | Use your Python dictionary skills to keep point totals for 4 people playing a game of scrabble! Say goodbye to the pencil-and-notebook scoring method of the past. | `Programming`, `Python` | [Open](./14-scrabble/) |
+| **Hacking The Fender** | Use your knowledge of Python files to take down an evil hacker once and for all. | `Programming`, `Python` | [Open](./15-hacking-the-fender/) |
+| **Create a Game Using Classes and Objects** | Welcome! You should now be equipped with everything you need to make a complicated program that uses multiple classes that interact with each other. This is where we turn the creativity over to you. | `Programming`, `Python` | [Open](./16-create-a-game-using-classes-and-objects/) |
 --- 
