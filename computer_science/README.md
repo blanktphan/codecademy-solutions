@@ -21,4 +21,9 @@ Below is a list of all Computer Science projects available in this repository.
 | **Scrabble** | Use your Python dictionary skills to keep point totals for 4 people playing a game of scrabble! Say goodbye to the pencil-and-notebook scoring method of the past. | `Programming`, `Python` | [Open](./14-scrabble/) |
 | **Hacking The Fender** | Use your knowledge of Python files to take down an evil hacker once and for all. | `Programming`, `Python` | [Open](./15-hacking-the-fender/) |
 | **Create a Game Using Classes and Objects** | Welcome! You should now be equipped with everything you need to make a complicated program that uses multiple classes that interact with each other. This is where we turn the creativity over to you. | `Programming`, `Python` | [Open](./16-create-a-game-using-classes-and-objects/) |
+
 --- 
+
+### 🙏 Thank You @Codecademy
+
+I want to express my sincere gratitude to [Codecademy](http://www.codecademy.com/) for their excellent learning platform, quality courses, and the opportunity to enhance my coding skills. The knowledge and experience gained from [Codecademy](http://www.codecademy.com/) have significantly contributed to creating these projects and developing my abilities.
