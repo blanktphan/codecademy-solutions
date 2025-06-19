@@ -1,6 +1,6 @@
 # 📚 Codecademy Solutions
 
-[![alt text](./image/codecademy.png)](https://www.codecademy.com/)
+[![alt text](./image/codecademy-logo.png)](https://www.codecademy.com/)
 
 ## 📗 Introduction
 
@@ -22,26 +22,26 @@ Follow these simple steps to navigate through the solutions:
 
 ### **Step 1:** Select a Category
 
-Browse the [**Table of Contents**](#-table-of-contents) to find categories.
+Browse the [**Table of Contents**](#-table-of-contents) to find *categories*.
 
 ### **Step 2:** Choose a Project
 
 Each entry provides **essential information**:
 
-* **Project Name** — A direct link to the project on Codecademy.
-* **Description** — A brief summary of what you'll find in that project.
-* **Focus Point** — The main programming languages, tools, or key concepts reinforced by the project.
-* **Folder Link** — Click "Open" to navigate directly to the project's folder, which contains the code and related files.
+* **Project Name** — A *direct link* to the project on [**Codecademy**](https://www.codecademy.com/).
+* **Description** — A *brief summary* of what you'll find in that project.
+* **Focus Point** — The main *programming languages*, *tools*, or **key concepts** reinforced by the project.
+* **Directory Link** — Click **"Open"** to navigate directly to the project's *directory*, which contains the code and related files.
 
 ### **Step 3:** Explore the Code and Solutions
 
-Inside each project folder, you'll find the code files and potentially a **README.md** that provides further details about my **problem-solving approach**.
+Inside each project *directory*, you'll find the code files and potentially a **README.md** that provides further details about my **problem-solving approach**.
 
 ---
 
 ## 📖 Table of Contents
 
-This **Table of Contents** primarily covers **Career Paths**, but there's much more to learn on Codecademy, such as specialized programming languages. If you're interested, [click here](https://www.codecademy.com/).
+This **Table of Contents** primarily covers [**Career Paths**](https://www.codecademy.com/catalog/subject/all), but there's much more to learn on *Codecademy*, such as **specialized programming languages**. If you're interested, [**click here**](https://www.codecademy.com/).
 
 ### Main Categories
 
@@ -55,18 +55,18 @@ This **Table of Contents** primarily covers **Career Paths**, but there's much m
 * 📂 [**iOS Developer**]()
 * 📂 [**UX Designer Career**]()
 
-This Table of Contents only reflects the career paths I've studied. Codecademy offers many other topics as well.
+This *Table of Contents* only reflects the **career paths** I've studied. [**Codecademy**](https://www.codecademy.com/) offers many other topics as well.
 
 ---
 
 ## 📂 Computer Science
 
-Below is a list of all **Computer Science** projects available in this repository.
+Below is a list of all **Computer Science** projects available in this *repository*.
 
 | Project Name | Description | Focus Point | Directory |
 | :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------- | :---------------------- |
-| [**Block Letters**](https://www.codecademy.com/journeys/computer-science/paths/cscj-22-intro-to-programming/tracks/cscj-22-introduction-to-computer-science-career-path/modules/cscj-22-python-hello-world/projects/python-block-letters) | Display your initials on screen in block characters to create an *ASCII art*. | `Programming`, `Python` | [**Open**](./computer_science/01-block-letters/) |
-| [**Receipts for Lovely Loveseats**](https://www.codecademy.com/journeys/computer-science/paths/cscj-22-intro-to-programming/tracks/cscj-22-introduction-to-computer-science-career-path/modules/cscj-22-python-hello-world/projects/python-furniture-store) | Keep receipts for your lovely loveseats. Programming is a treat with this sweet suite of feats! Use strings and numbers to save a catalog of furniture, then perform concatenation and math calculations to create a receipt. | `Programming`, `Python` | [**Open**](./computer_science/02-receipts-for-lovely-loveseats/) |
+| [**Block Letters**](https://www.codecademy.com/journeys/computer-science/paths/cscj-22-intro-to-programming/tracks/cscj-22-introduction-to-computer-science-career-path/modules/cscj-22-python-hello-world/projects/python-block-letters) | Display your *initials* on screen in **block characters** to create an *ASCII art*. | `Programming`, `Python` | [**Open**](./computer_science/01-block-letters/) |
+| [**Receipts for Lovely Loveseats**](https://www.codecademy.com/journeys/computer-science/paths/cscj-22-intro-to-programming/tracks/cscj-22-introduction-to-computer-science-career-path/modules/cscj-22-python-hello-world/projects/python-furniture-store) | Keep *receipts* for your lovely loveseats. Programming is a **treat** with this sweet suite of feats! Use *strings* and *numbers* to save a catalog of furniture, then perform **concatenation** and **math calculations** to create a receipt. | `Programming`, `Python` | [**Open**](./computer_science/02-receipts-for-lovely-loveseats/) |
 
 Click [**here**](./computer-science/) to see more **Computer Science** projects.
 
