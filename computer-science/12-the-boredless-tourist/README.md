@@ -1,4 +1,4 @@
-# Project The Boredless Tourist
+# Project: The Boredless Tourist
 
 ## 🎯 The Challenge form [Codecademy](http://www.codecademy.com/)
 

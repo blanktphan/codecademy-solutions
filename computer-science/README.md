@@ -1,6 +1,6 @@
 # 📂 Computer Science
 
-Below is a list of all **Computer Science** projects available in this repository.
+Below is a comprehensive list of all **Computer Science** projects available in this repository, designed to build progressive programming skills from foundational Python syntax to advanced software development practices.
 
 | Project Name | Description| Focus Point | Directory |
 | :------------------------- | :------------------------------------ | :---------------------------------- | :---------------------- |
