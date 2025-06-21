@@ -1,10 +1,7 @@
-# Thitiphan Saragool
-# Handsome
-
-print("""TTTTT""")
-print("""  T  """)
-print("""  T  """)
-print("""  T  """)
-print("""  T  """)
-print("""  T  """)
-print("""  T  """)
+print("""TTTTT""")  # Top horizontal line
+print("""  T  """)  # Vertical stem (centered)
+print("""  T  """)  # Vertical stem
+print("""  T  """)  # Vertical stem
+print("""  T  """)  # Vertical stem
+print("""  T  """)  # Vertical stem
+print("""  T  """)  # Vertical stem (bottom)

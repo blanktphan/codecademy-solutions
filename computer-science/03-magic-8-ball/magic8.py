@@ -1,13 +1,13 @@
-import random
+import random  # Import random module for generating random numbers
 
-name = "Blank"
+name = "Blank"  # Person asking the question
+question = "Blank is handsome?"  # Question to ask the Magic 8-Ball
+answer = ''  # Variable to store the Magic 8-Ball's response
 
-question = "Blank is handsome?"
-
-answer = ''
-
+# Generate random number between 1 and 9
 random_number = random.randint(1, 9)
 
+# Use if/elif statements to assign different answers based on random number
 if random_number == 1:
   answer = 'Yes - definitely'
 elif random_number == 2:
@@ -27,11 +27,12 @@ elif random_number == 8:
 elif random_number == 9:
   answer = 'Very doubtful'
 else:
-  print('Error')
+  print('Error')  # Fallback for unexpected values
 
+# Display the question with or without name
 if name == '':
-    print('Question: ' + question)
+    print('Question: ' + question)  # Anonymous question
 else:
-    print(name + ' asks: ' + question)
+    print(name + ' asks: ' + question)  # Named question
 
-print('Magic 8-Ball\'s answer: ' + answer)
+print('Magic 8-Ball\'s answer: ' + answer)  # Display the random answer
