@@ -47,7 +47,7 @@ This **Table of Contents** primarily covers [**Career Paths**](https://www.codec
 
 * 📂 [**Artificial Intelligence/Machine Learning**]()
 * 📂 [**Back-End Engineer**]()
-* 📂 [**Computer Science**](#-computer-science)
+* 📂 [**Computer Science**](./computer-science/)
 * 📂 [**Data Engineer**]()
 * 📂 [**Data Scientist**]()
 * 📂 [**Front-End Engineer**]()
