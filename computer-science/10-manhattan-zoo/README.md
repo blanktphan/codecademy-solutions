@@ -1,4 +1,4 @@
-# Project: Manhattan Zoo
+# 👨‍💻 Project: Manhattan Zoo
 
 ## 🎯 The Challenge form [Codecademy](http://www.codecademy.com/)
 

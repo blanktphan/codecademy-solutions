@@ -1,4 +1,4 @@
-# Project: Receipts for Lovely Loveseats
+# 👨‍💻 Project: Receipts for Lovely Loveseats
 
 ## 🎯 The Challenge form [Codecademy](http://www.codecademy.com/)
 

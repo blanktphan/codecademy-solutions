@@ -1,4 +1,4 @@
-# Project: Sal's Shipping
+# 👨‍💻 Project: Sal's Shipping
 
 ## 🎯 The Challenge form [Codecademy](http://www.codecademy.com/)
 

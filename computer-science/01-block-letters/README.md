@@ -1,4 +1,4 @@
-# Project: Block Letters
+# 👨‍💻 Project: Block Letters
 
 ## 🎯 The Challenge form [Codecademy](http://www.codecademy.com/)
 

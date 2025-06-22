@@ -1,4 +1,4 @@
-# Project: SnapFit Robots, Inc.
+# 👨‍💻 Project: SnapFit Robots, Inc.
 
 ## 🎯 The Challenge form [Codecademy](http://www.codecademy.com/)
 

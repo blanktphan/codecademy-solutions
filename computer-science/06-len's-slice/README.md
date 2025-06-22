@@ -1,4 +1,4 @@
-# Project: Len's Slice
+# 👨‍💻 Project: Len's Slice
 
 ## 🎯 The Challenge form [Codecademy](http://www.codecademy.com/)
 

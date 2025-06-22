@@ -1,4 +1,4 @@
-# Project: Carly's Clippers
+# 👨‍💻 Project: Carly's Clippers
 
 ## 🎯 The Challenge form [Codecademy](http://www.codecademy.com/)
 

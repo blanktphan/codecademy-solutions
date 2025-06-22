@@ -1,4 +1,4 @@
-# Project: Magic 8 Ball
+# 👨‍💻 Project: Magic 8 Ball
 
 ## 🎯 The Challenge form [Codecademy](http://www.codecademy.com/)
 

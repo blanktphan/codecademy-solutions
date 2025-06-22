@@ -1,4 +1,4 @@
-# Project: Bicycle World
+# 👨‍💻 Project: Bicycle World
 
 ## 🎯 The Challenge form [Codecademy](http://www.codecademy.com/)
 

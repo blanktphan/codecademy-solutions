@@ -1,4 +1,4 @@
-# Project: Getting Ready for Physics Class
+# 👨‍💻 Project: Getting Ready for Physics Class
 
 ## 🎯 The Challenge form [Codecademy](http://www.codecademy.com/)
 
