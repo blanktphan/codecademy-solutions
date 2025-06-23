@@ -1,4 +1,4 @@
-# 👨‍💻 Project: Thread-shed
+# 👨‍💻 Project: Thread shed
 
 ## 🎯 The Challenge from [Codecademy](http://www.codecademy.com/)
 
