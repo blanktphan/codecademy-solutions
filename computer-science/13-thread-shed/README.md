@@ -1,6 +1,6 @@
 # 👨‍💻 Project: Thread-shed
 
-## 🎯 The Challenge form [Codecademy](http://www.codecademy.com/)
+## 🎯 The Challenge from [Codecademy](http://www.codecademy.com/)
 
 You’ve recently been hired as a cashier at the local sewing hobby shop, Thread Shed. Some of your daily responsibilities involve tallying the number of sales during the day, calculating the total amount of money made, and keeping track of the names of the customers.
 

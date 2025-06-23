@@ -1,6 +1,6 @@
 # 👨‍💻 Project: Magic 8 Ball
 
-## 🎯 The Challenge form [Codecademy](http://www.codecademy.com/)
+## 🎯 The Challenge foom [Codecademy](http://www.codecademy.com/)
 
 Magic 8-Ball
 The Magic 8-Ball is a popular toy developed in the 1950s for fortune-telling or advice seeking.

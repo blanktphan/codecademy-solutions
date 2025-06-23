@@ -1,6 +1,6 @@
 # 👨‍💻 Project: Manhattan Zoo
 
-## 🎯 The Challenge form [Codecademy](http://www.codecademy.com/)
+## 🎯 The Challenge from [Codecademy](http://www.codecademy.com/)
 
 Ready to try out some of your new Git knowledge?
 

@@ -1,6 +1,6 @@
 # 👨‍💻 Project: SnapFit Robots, Inc.
 
-## 🎯 The Challenge form [Codecademy](http://www.codecademy.com/)
+## 🎯 The Challenge from [Codecademy](http://www.codecademy.com/)
 
 Now that you’ve had more practice with the Git workflow, let’s solidify your new skills even more.
 

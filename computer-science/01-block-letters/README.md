@@ -1,6 +1,6 @@
 # 👨‍💻 Project: Block Letters
 
-## 🎯 The Challenge form [Codecademy](http://www.codecademy.com/)
+## 🎯 The Challenge from [Codecademy](http://www.codecademy.com/)
 
 ASCII art is a way of creating images using the individual characters from a keyboard.
 

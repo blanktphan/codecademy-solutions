@@ -1,6 +1,6 @@
 # 👨‍💻 Project: Bicycle World
 
-## 🎯 The Challenge form [Codecademy](http://www.codecademy.com/)
+## 🎯 The Challenge from [Codecademy](http://www.codecademy.com/)
 
 Welcome to Bicycle World, the premier text-based bicycle shop! This shop is only accessible to programmers like you, who are familiar with the command line.
 
