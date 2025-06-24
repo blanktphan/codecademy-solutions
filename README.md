@@ -10,7 +10,7 @@ This repository is my **personal space** for storing and collecting various proj
 This repository is designed to help me:
 
 * **Track Progress** — *Monitor my development* in **problem-solving** and **technical skills**.
-* **Deepen Understanding** — *Enhance my understanding* of **Software-focused Programmer** [career paths]().
+* **Deepen Understanding** — *Enhance my understanding* of **Software-focused Programmer** [career paths](https://www.codecademy.com/catalog/subject/all).
 * **Interview Preparation** — *Strengthen my skills* for **technical interviews** and **continuous learning**.
 * **Knowledge Sharing** — *Contribute* to the broader **programming community**.
 
