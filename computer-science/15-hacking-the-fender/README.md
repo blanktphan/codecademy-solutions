@@ -10,7 +10,7 @@ If you get stuck during this project, check out the project walkthrough video wh
 
 ---
 
-## 🔍 **Code Explanation**
+## 🔍 **Code Explanation (Generate by GitHub Copilot)**
 
 The **Hacking The Fender program** uses **Python file I/O operations** to investigate *security breaches* and manipulate **different file formats** for cybersecurity analysis. Here's how it works:
 
