@@ -2,15 +2,21 @@
 
 ## 🎯 The Challenge from [Codecademy](http://www.codecademy.com/)
 
-Ready to try out some of your new Git knowledge?
+Ready to explore Git version control? 🚀
 
-In this project, you’ll use Git to keep track of meal guidelines for animals at the Manhattan Zoo.
+In this hands-on project, you'll master **Git fundamentals** by managing *meal guidelines* for animals at the **Manhattan Zoo**. You'll learn to:
 
-If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
+- **Initialize** a Git repository for tracking changes
+- **Stage and commit** animal feeding schedules  
+- **Navigate through** project history and versions
+- **Compare differences** between file modifications
+- **Manage documentation** using professional Git workflows
+
+This practical exercise demonstrates how **version control** works in real-world scenarios, giving you essential skills for software development and project management.
 
 ---
 
-## 🔍 **Code Explanation (Generate by GitHub Pilot)**
+## 🔍 **Code Explanation (Explanation by GitHub Pilot)**
 
 The **Manhattan Zoo project** uses **Git version control** to track and manage *animal meal guidelines* for **zoo operations**. Here's how it works:
 
@@ -174,6 +180,6 @@ This **Git project** shows how **version control systems** can manage *any type 
 
 ---
 
-### 🙏 **Thank You [Codecademy](https://www.codecademy.com/)**
+### 🙏 **Thank You, [Codecademy](https://www.codecademy.com/)**
 
 I want to express my **sincere gratitude** to [**Codecademy**](https://www.codecademy.com/) for their **excellent learning platform**, **quality courses**, and the *opportunity to enhance my coding skills*. The **knowledge and experience** gained from [Codecademy](https://www.codecademy.com/) have **significantly contributed** to creating these projects and **developing my abilities**.

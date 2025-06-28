@@ -1,16 +1,13 @@
 # 👨‍💻 Project: SnapFit Robots, Inc.
 
 ## 🎯 The Challenge from [Codecademy](http://www.codecademy.com/)
+Now that you've had more practice with the **Git workflow**, let's solidify your new skills even more.
 
-Now that you’ve had more practice with the Git workflow, let’s solidify your new skills even more.
-
-In this project, you will be working on assembly instructions for Snap-Fit Robots Inc., a build-it-yourself robot company.
-
-If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
+In this project, you will be working on **assembly instructions** for **Snap-Fit Robots Inc.**, a *build-it-yourself robot company*.
 
 ---
 
-## 🔍 **Code Explanation (Generate by GitHub Copilot)**
+## 🔍 **Code Explanation (Explanation by GitHub Copilot)**
 
 The **SnapFit Robots project** uses **advanced Git workflow** and **branching strategies** to manage *robot assembly instructions* for **collaborative development**. Here's how it works:
 
@@ -177,6 +174,6 @@ This **Git branching project** demonstrates how **version control systems** enab
 
 ---
 
-### 🙏 **Thank You [Codecademy](https://www.codecademy.com/)**
+### 🙏 **Thank You, [Codecademy](https://www.codecademy.com/)**
 
 I want to express my **sincere gratitude** to [**Codecademy**](https://www.codecademy.com/) for their **excellent learning platform**, **quality courses**, and the *opportunity to enhance my coding skills*. The **knowledge and experience** gained from [Codecademy](https://www.codecademy.com/) have **significantly contributed** to creating these projects and **developing my abilities**.

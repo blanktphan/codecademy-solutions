@@ -2,35 +2,40 @@
 
 ## 🎯 The Challenge foom [Codecademy](http://www.codecademy.com/)
 
-Magic 8-Ball
-The Magic 8-Ball is a popular toy developed in the 1950s for fortune-telling or advice seeking.
+## 📝 **Project Description**
 
-Write a magic8.py Python program that can answer any “Yes” or “No” question with a different fortune each time it executes.
+The **Magic 8-Ball** is a popular toy developed in the 1950s for fortune-telling or advice seeking.
 
-![Challege for Magic 8 Ball in Codecademy](./image/image.png)
+Write a `magic8.py` Python program that can answer any "Yes" or "No" question with a different fortune each time it executes.
 
-Magic 8-Ball, should I do this project?
+![Challenge for Magic 8 Ball in Codecademy](./image/image.png)
 
-We’ll be using the following 9 possible answers for our Magic 8-Ball:
+*Magic 8-Ball, should I do this project?*
 
-- Yes - definitely
-- It is decidedly so
-- Without a doubt
-- Reply hazy, try again
-- Ask again later
-- Better not tell you now
-- My sources say no
-- Outlook not so good
-- Very doubtful
+### **🎱 Available Responses**
+
+We'll be using the following **9 possible answers** for our Magic 8-Ball:
+
+- **Yes - definitely**
+- **It is decidedly so**
+- **Without a doubt**
+- **Reply hazy, try again**
+- **Ask again later**
+- **Better not tell you now**
+- **My sources say no**
+- **Outlook not so good**
+- **Very doubtful**
+
+### **📤 Output Format**
 
 The output of the program will have the following format:
 
 ```terminal
 [Name] asks: [Question]
-Magic 8-Ball’s answer: [Answer]
+Magic 8-Ball's answer: [Answer]
 ```
 
-For example:
+**Example:**
 
 ```terminal
 Joe asks: Is this real life?
@@ -39,7 +44,7 @@ Magic 8-Ball's answer: Better not tell you now
 
 ---
 
-## 🔍 **Code Explanation (Generate by GitHub Copilot)**
+## 🔍 **Code Explanation (Explanation by GitHub Copilot)**
 
 The **Magic 8-Ball program** uses **control flow** and **random number generation** to simulate the classic fortune-telling toy. Here's how it works:
 
@@ -114,6 +119,6 @@ Each run produces a **different random answer**, making it feel like a *real Mag
 
 ---
 
-### 🙏 **Thank You [Codecademy](https://www.codecademy.com/)**
+### 🙏 **Thank You, [Codecademy](https://www.codecademy.com/)**
 
 I want to express my **sincere gratitude** to [**Codecademy**](https://www.codecademy.com/) for their **excellent learning platform**, **quality courses**, and the *opportunity to enhance my coding skills*. The **knowledge and experience** gained from [Codecademy](https://www.codecademy.com/) have **significantly contributed** to creating these projects and **developing my abilities**.

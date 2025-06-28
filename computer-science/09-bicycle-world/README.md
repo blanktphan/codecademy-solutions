@@ -2,34 +2,31 @@
 
 ## 🎯 The Challenge from [Codecademy](http://www.codecademy.com/)
 
-Welcome to Bicycle World, the premier text-based bicycle shop! This shop is only accessible to programmers like you, who are familiar with the command line.
+Welcome to **Bicycle World**, the premier *text-based bicycle shop*! This shop is only accessible to **programmers** like you, who are familiar with the *command line*.
 
-In this project, you’ll use the commands you learned to navigate and edit the filesystem of this special shop.
+In this project, you'll use the **commands** you learned to *navigate* and **edit** the *filesystem* of this special shop.
 
-The starting filesystem is shown below. (Bicycle World recently changed owners, who named the main directory bicycle-world-ii.)
-
-```
-bicycle-world-ii
-|—— brands.txt
-|—— freight/
-|   |—— messenger/
-|   |—— porteur/
-|—— mountain/
-|   |—— downhill/
-|   |   |—— heavyweight/
-|   |   |—— lightweight/
-|   |—— hardtail/
-|—— racing/
-    |—— road/
-    |—— track/
+The starting **filesystem** is shown below. (**Bicycle World** recently changed owners, who named the main directory `bicycle-world-ii`.)
 
 ```
-
-If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
+bicycle-world-ii/
+├── brands.txt
+├── freight/
+│   ├── messenger/
+│   └── porteur/
+├── mountain/
+│   ├── downhill/
+│   │   ├── heavyweight/
+│   │   └── lightweight/
+│   └── hardtail/
+└── racing/
+    ├── road/
+    └── track/
+```
 
 ---
 
-## 🔍 **Code Explanation (Generate by GitHub Copilot)**
+## 🔍 **Code Explanation (Explanation by GitHub Copilot)**
 
 The **Bicycle World project** uses **Bash shell commands** to navigate and manipulate the *file system* of a **bicycle shop directory structure**. Here's how it works:
 
@@ -202,6 +199,6 @@ This **bash scripting exercise** shows how **command line tools** can efficientl
 
 ---
 
-### 🙏 **Thank You [Codecademy](https://www.codecademy.com/)**
+### 🙏 **Thank You, [Codecademy](https://www.codecademy.com/)**
 
 I want to express my **sincere gratitude** to [**Codecademy**](https://www.codecademy.com/) for their **excellent learning platform**, **quality courses**, and the *opportunity to enhance my coding skills*. The **knowledge and experience** gained from [Codecademy](https://www.codecademy.com/) have **significantly contributed** to creating these projects and **developing my abilities**.

@@ -1,12 +1,13 @@
 # 👨‍💻 Project: Len's Slice
 
 ## 🎯 The Challenge from [Codecademy](http://www.codecademy.com/)
+You work at **Len's Slice**, a *new pizza joint* in the neighborhood. You are going to use your **knowledge of Python lists** to *organize* some of your **sales data**.
 
-You work at Len’s Slice, a new pizza joint in the neighborhood. You are going to use your knowledge of Python lists to organize some of your sales data.
+**Your Mission:** Help Len manage his pizza shop by implementing **list operations** to track *pizza toppings*, analyze *pricing data*, and organize the **menu efficiently**.
 
 ---
 
-## 🔍 **Code Explanation (Generate by GitHub Copilot)**
+## 🔍 **Code Explanation (Explanation by GitHub Copilot)**
 
 The **Len's Slice program** uses **Python lists** and **list methods** to manage *pizza shop data* including **prices**, **toppings**, and **sales analysis**. Here's how it works:
 
@@ -152,6 +153,6 @@ This program demonstrates how **list operations** can manage *business data* and
 
 ---
 
-### 🙏 **Thank You [Codecademy](https://www.codecademy.com/)**
+### 🙏 **Thank You, [Codecademy](https://www.codecademy.com/)**
 
 I want to express my **sincere gratitude** to [**Codecademy**](https://www.codecademy.com/) for their **excellent learning platform**, **quality courses**, and the *opportunity to enhance my coding skills*. The **knowledge and experience** gained from [Codecademy](https://www.codecademy.com/) have **significantly contributed** to creating these projects and **developing my abilities**.

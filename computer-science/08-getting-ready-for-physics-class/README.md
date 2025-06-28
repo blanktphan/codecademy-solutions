@@ -2,13 +2,11 @@
 
 ## 🎯 The Challenge from [Codecademy](http://www.codecademy.com/)
 
-You are a physics teacher preparing for the upcoming semester. You want to provide your students with some functions that will help them calculate some fundamental physical properties.
-
-If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
+You are a **physics teacher** preparing for the upcoming semester. You want to provide your students with some **functions** that will help them calculate some *fundamental physical properties*.
 
 ---
 
-## 🔍 **Code Explanation (Generate by GitHub Copilot)**
+## 🔍 **Code Explanation (Explanation by GitHub Copilot)**
 
 The **Physics Class program** uses **Python functions** to create *physics calculators* for **fundamental formulas**. Here's how it works:
 
@@ -182,6 +180,6 @@ This project shows how **functions make code modular** and *reusable* while **so
 
 ---
 
-### 🙏 **Thank You [Codecademy](https://www.codecademy.com/)**
+### 🙏 **Thank You, [Codecademy](https://www.codecademy.com/)**
 
 I want to express my **sincere gratitude** to [**Codecademy**](https://www.codecademy.com/) for their **excellent learning platform**, **quality courses**, and the *opportunity to enhance my coding skills*. The **knowledge and experience** gained from [Codecademy](https://www.codecademy.com/) have **significantly contributed** to creating these projects and **developing my abilities**.

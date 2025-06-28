@@ -2,15 +2,29 @@
 
 ## 🎯 The Challenge from [Codecademy](http://www.codecademy.com/)
 
-The Fender, a notorious computer hacker and general villain of the people, has compromised several top-secret passwords including your own. Your mission, should you choose to accept it, is threefold. You must acquire access to The Fender‘s systems, you must update his "passwords.csv" file to scramble the secret data. The last thing you need to do is add the signature of Slash Null, a different hacker whose nefarious deeds could be very conveniently halted by The Fender if they viewed Slash Null as a threat.
+**The Fender**, a notorious computer hacker and general villain of the people, has compromised several top-secret passwords including your own. Your mission, should you choose to accept it, is **threefold**:
 
-Use your knowledge of working with Python files to retrieve, manipulate, obscure, and create data in your quest for justice. Work with CSV files and other text files in this exploration of the strength of Python file programming.
+### 📋 **Mission Objectives**
 
-If you get stuck during this project, check out the project walkthrough video which can be found in the help menu.
+1. **🔓 Acquire Access** - Gain entry to *The Fender's systems*
+2. **🔄 Update Passwords** - Modify his `passwords.csv` file to *scramble secret data*
+3. **🎭 Plant Evidence** - Add the signature of **Slash Null**, a different hacker whose nefarious deeds could be conveniently halted by *The Fender* if they viewed **Slash Null** as a threat
+
+### 🐍 **Python Skills Required**
+
+Use your knowledge of working with **Python files** to:
+- **📥 Retrieve** - *Extract data* from files
+- **⚙️ Manipulate** - *Process* and **transform information**
+- **🔒 Obscure** - *Hide* and **scramble sensitive data**
+- **📝 Create** - *Generate new files* and **evidence**
+
+### 📊 **File Operations Focus**
+
+Work with **CSV files** and other *text files* in this exploration of the **strength of Python file programming**.
 
 ---
 
-## 🔍 **Code Explanation (Generate by GitHub Copilot)**
+## 🔍 **Code Explanation (Explanation by GitHub Copilot)**
 
 The **Hacking The Fender program** uses **Python file I/O operations** to investigate *security breaches* and manipulate **different file formats** for cybersecurity analysis. Here's how it works:
 
@@ -167,7 +181,7 @@ This project shows how **file I/O operations** can be used for *cybersecurity in
 
 ---
 
-### 🙏 **Thank You [Codecademy](https://www.codecademy.com/)**
+### 🙏 **Thank You, [Codecademy](https://www.codecademy.com/)**
 
 I want to express my **sincere gratitude** to [**Codecademy**](https://www.codecademy.com/) for their **excellent learning platform**, **quality courses**, and the *opportunity to enhance my coding skills*. The **knowledge and experience** gained from [Codecademy](https://www.codecademy.com/) have **significantly contributed** to creating these projects and **developing my abilities**.
 

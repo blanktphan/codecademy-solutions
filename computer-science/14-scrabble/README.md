@@ -2,15 +2,19 @@
 
 ## 🎯 The Challenge from [Codecademy](http://www.codecademy.com/)
 
-In this project, you will process some data from a group of friends playing scrabble. You will use dictionaries to organize players, words, and points.
+In this project, you'll work with **data processing** for a group of friends playing Scrabble. You'll learn to use **Python dictionaries** to organize *players*, *words*, and *scoring systems* effectively.
 
-There are many ways you can extend this project on your own if you finish and want to get more practice!
+The project teaches you how to:
+- Create **letter-to-point mapping** systems
+- Build **word scoring functions**
+- Manage **player data** with nested dictionaries
+- Calculate **total scores** across multiple players
 
-If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
+There are many ways you can **extend this project** if you finish and want to get more practice with *dictionary manipulation* and *game logic*!
 
 ---
 
-## 🔍 **Code Explanation (Generate by GitHub Copilot)**
+## 🔍 **Code Explanation (Explanation by GitHub Copilot)**
 
 The **Scrabble program** uses **Python dictionaries** and **functions** to create a *scoring system* that calculates **word values** and tracks **player points**. Here's how it works:
 
@@ -91,7 +95,7 @@ This project demonstrates how **dictionaries and functions** work together to cr
 
 ---
 
-### 🙏 **Thank You [Codecademy](https://www.codecademy.com/)**
+### 🙏 **Thank You, [Codecademy](https://www.codecademy.com/)**
 
 I want to express my **sincere gratitude** to [**Codecademy**](https://www.codecademy.com/) for their **excellent learning platform**, **quality courses**, and the *opportunity to enhance my coding skills*. The **knowledge and experience** gained from [Codecademy](https://www.codecademy.com/) have **significantly contributed** to creating these projects and **developing my abilities**.
 

@@ -2,44 +2,56 @@
 
 ## 🎯 The Challenge from [Codecademy](http://www.codecademy.com/)
 
-Sal runs the biggest shipping company in the tri-county area, Sal’s Shippers. Sal wants to make sure that every single one of his customers has the best, and most affordable experience shipping their packages.
+**Sal** runs the biggest shipping company in the tri-county area, **Sal's Shippers**. Sal wants to make sure that every single one of his customers has the *best* and *most affordable experience* shipping their packages.
 
-In this project, you’ll build a program that will take the weight of a package and determine the cheapest way to ship that package using Sal’s Shippers.
+In this project, you'll build a program that will **take the weight of a package** and **determine the cheapest way** to ship that package using *Sal's Shippers*.
 
-Sal’s Shippers has several different options for a customer to ship their package:
+### 📦 **Shipping Options Available**
 
-- Ground Shipping, which is a small flat charge plus a rate based on the weight of your package.
-- Ground Shipping Premium, which is a much higher flat charge, but you aren’t charged for weight.
-- Drone Shipping (new), which has no flat charge, but the rate based on weight is triple the rate of ground shipping.
-Here are the prices:
+**Sal's Shippers** offers *three different shipping methods* for customers:
 
-### Ground Shipping
+1. **🚛 Ground Shipping** - Small *flat charge* + *weight-based rate*
+2. **⚡ Ground Shipping Premium** - Higher *flat charge*, **no weight fees**
+3. **🚁 Drone Shipping** *(NEW!)* - **No flat charge**, but *triple weight rates*
 
-|Weight of Package | Price per Pound | Flat Charge |
-| :--------------- | :-------------- | :---------- |
-| 2 lb or less | $1.50 | $20.00 |
-| Over 2 lb but less than or equal to 6 lb | $3.00 | $20.00 |
-| Over 6 lb but less than or equal to 10 lb | $4.00 | $20.00 |
-| Over 10 lb | $4.75 | $20.00 |
+### 💰 **Pricing Structure**
 
-### Ground Shipping Premium
+#### **🚛 Ground Shipping**
 
-Flat charge: $125.00
+| Weight Range | Price per Pound | Flat Charge |
+|:-------------|:----------------|:------------|
+| **2 lb or less** | `$1.50` | `$20.00` |
+| **Over 2 lb ≤ 6 lb** | `$3.00` | `$20.00` |
+| **Over 6 lb ≤ 10 lb** | `$4.00` | `$20.00` |
+| **Over 10 lb** | `$4.75` | `$20.00` |
 
-#### Drone Shipping
+#### **⚡ Ground Shipping Premium**
 
-|Weight of Package | Price per Pound | Flat Charge |
-| :--------------- | :-------------- | :---------- |
-| 2 lb or less | $4.50 | $0.00 |
-| Over 2 lb but less than or equal to 6 lb | $9.00 | $0.00 |
-| Over 6 lb but less than or equal to 10 lb | $12.00 | $0.00 |
-| Over 10 lb | $14.75 | $0.00 |
+**Flat Rate:** `$125.00` *(regardless of weight)*
 
-Write a shipping.py Python program that asks the user for the weight of their package and then tells them which method of shipping is cheapest and how much it will cost to ship their package using Sal’s Shippers.
+#### **🚁 Drone Shipping**
+
+| Weight Range | Price per Pound | Flat Charge |
+|:-------------|:----------------|:------------|
+| **2 lb or less** | `$4.50` | `$0.00` |
+| **Over 2 lb ≤ 6 lb** | `$9.00` | `$0.00` |
+| **Over 6 lb ≤ 10 lb** | `$12.00` | `$0.00` |
+| **Over 10 lb** | `$14.25` | `$0.00` |
+
+### 🎯 **Your Mission**
+
+Create a **`shipping.py`** Python program that:
+
+1. **📝 Asks the user** for their *package weight*
+2. **💻 Calculates costs** for *all three shipping methods*
+3. **🔍 Determines** which method is the **cheapest**
+4. **📊 Displays** the *best option* and **total cost**
+
+**Goal:** Help customers find the *most affordable shipping solution* with **Sal's Shippers**!
 
 ---
 
-## 🔍 **Code Explanation (Generate by GitHub Copilot)**
+## 🔍 **Code Explanation (Explanation by GitHub Copilot)**
 
 The **Sal's Shipping program** uses **control flow** and **conditional logic** to determine the *cheapest shipping method* based on **package weight**. Here's how it works:
 
@@ -184,6 +196,6 @@ This program demonstrates how **conditional statements** and **logical operators
 
 ---
 
-### 🙏 **Thank You [Codecademy](https://www.codecademy.com/)**
+### 🙏 **Thank You, [Codecademy](https://www.codecademy.com/)**
 
 I want to express my **sincere gratitude** to [**Codecademy**](https://www.codecademy.com/) for their **excellent learning platform**, **quality courses**, and the *opportunity to enhance my coding skills*. The **knowledge and experience** gained from [Codecademy](https://www.codecademy.com/) have **significantly contributed** to creating these projects and **developing my abilities**.

@@ -2,11 +2,18 @@
 
 ## 🎯 The Challenge from [Codecademy](http://www.codecademy.com/)
 
-You are a student and you are trying to organize your subjects and grades using Python. Let’s explore what we’ve learned about lists to organize your subjects and scores.
+You are a student looking to organize your academic subjects and grades using Python programming. This project will help you explore and apply fundamental list operations to create a comprehensive gradebook system for tracking your academic performance across multiple semesters.
+
+**🎯 Project Objectives:**
+- Create and manage lists to store subject names and corresponding grades
+- Implement list methods for adding, modifying, and removing academic data
+- Combine multiple semester records into a unified gradebook
+- Practice nested list structures for organized data management
+- Apply different grading systems (numerical and Pass/Fail) within the same dataset
 
 ---
 
-## 🔍 **Code Explanation(Generate by GitHub Copilot)**
+## 🔍 **Code Explanation(Explanation by GitHub Copilot)**
 
 The **Gradebook program** uses **Python lists** and **list methods** to organize and manipulate *student grades* and **subjects**. Here's how it works:
 
@@ -144,6 +151,6 @@ This program demonstrates how **lists and list methods** can manage *educational
 
 ---
 
-### 🙏 **Thank You [Codecademy](https://www.codecademy.com/)**
+### 🙏 **Thank You, [Codecademy](https://www.codecademy.com/)**
 
 I want to express my **sincere gratitude** to [**Codecademy**](https://www.codecademy.com/) for their **excellent learning platform**, **quality courses**, and the *opportunity to enhance my coding skills*. The **knowledge and experience** gained from [Codecademy](https://www.codecademy.com/) have **significantly contributed** to creating these projects and **developing my abilities**.
