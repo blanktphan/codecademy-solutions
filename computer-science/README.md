@@ -1,6 +1,6 @@
 # 📂 Computer Science
 
-Below is a comprehensive list of all **Computer Science** projects available in this repository, designed to build progressive programming skills from foundational Python syntax to advanced software development practices.
+Below is a comprehensive list of all Computer Science projects available in this repository, designed to build progressive programming skills from foundational Python syntax to advanced software development practices.
 
 | Project Name | Description| Focus Point | Directory |
 | :------------------------- | :------------------------------------ | :---------------------------------- | :---------------------- |
@@ -23,8 +23,8 @@ Below is a comprehensive list of all **Computer Science** projects available in 
 | [**Create a Table**](https://www.codecademy.com/journeys/computer-science/paths/cscj-22-databases/tracks/cscj-22-database-basics/modules/wdcp-22-working-with-a-database-bed4c6cd-c2f2-40c1-a505-150eea4f15e9/projects/learn_sql_create_table) | Learn database fundamentals by creating tables, inserting data, and performing CRUD operations using SQL commands. | `SQL`, `Database Design`, `CRUD Operations`, `Table Creation`, `Data Manipulation`, `Query Language` | [**Open**](./17-create-a-table/) |
 | [**New York Restaurants**](https://www.codecademy.com/journeys/computer-science/paths/cscj-22-databases/tracks/cscj-22-working-with-databases/modules/wdcp-22-what-can-i-do-with-a-database-77f195cc-06a4-457a-9db4-6f697f303f0e/projects/learn_sql_query_table-1) | Analyze NYC restaurant data using advanced SQL queries to filter, sort, and categorize dining establishments by cuisine, ratings, and location. | `SQL Queries`, `Data Analysis`, `Filtering`, `Pattern Matching`, `Conditional Logic`, `Database Analytics` | [**Open**](./18-new-york-restaurants/) |
 
---- 
+---
 
-### 🙏 **Thank You, [Codecademy](https://www.codecademy.com/)**
+### 🙏 Thank You, [Codecademy](https://www.codecademy.com/)
 
-I want to express my **sincere gratitude** to [**Codecademy**](https://www.codecademy.com/) for their **excellent learning platform**, **quality courses**, and the *opportunity to enhance my coding skills*. The **knowledge and experience** gained from [Codecademy](https://www.codecademy.com/) have **significantly contributed** to creating these projects and **developing my abilities**.
+I want to express my sincere gratitude to [Codecademy](https://www.codecademy.com/) for their excellent learning platform, quality courses, and the opportunity to enhance my coding skills. The knowledge and experience gained from [Codecademy](https://www.codecademy.com/) have significantly contributed to creating these projects and developing my abilities.
