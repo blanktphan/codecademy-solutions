@@ -4,28 +4,28 @@
 
 <section align="center">
     <span>
-        <img alt="Python Badge" src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=fff&color=4584b6">
+        <img alt="Python Badge" src="https://img.shields.io/badge/python-transparent?style=for-the-badge&logo=python&logoColor=fff&color=4584b6">
     </span>
     <span>
-        <img alt="bash Badge" src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu%20bash&logoColor=fff&color=3e3b3b">
+        <img alt="Bash Badge" src="https://img.shields.io/badge/bash-transparent?style=for-the-badge&logo=gnu%20bash&logoColor=fff&color=3e3b3b">
     </span>
     <span>
-        <img alt="Git Badge" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=fff&color=F1502F">
+        <img alt="Git Badge" src="https://img.shields.io/badge/git-transparent?style=for-the-badge&logo=git&logoColor=fff&color=F1502F">
     </span>
     <span>
-        <img alt="VScode Badge" src="https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=vscode&labelColor=fff&color=0078d7">
+        <img alt="VScode Badge" src="https://img.shields.io/badge/vscode-transparent?style=for-the-badge&logo=vscode&labelColor=fff&color=0078d7">
     </span>
     <span>
-        <img alt="Static Badge" src="https://img.shields.io/badge/sqlite-blue?style=for-the-badge&logo=sqlite&logoColor=fff&color=%23003B57">
+        <img alt="SQLite Badge" src="https://img.shields.io/badge/sqlite-transparent?style=for-the-badge&logo=sqlite&logoColor=fff&color=%23003B57">
     </span>
     <span>
-        <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/postgresql-red?style=for-the-badge&logo=postgresql&logoColor=fff&color=008bb9">
+        <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/postgresql-transparent?style=for-the-badge&logo=postgresql&logoColor=fff&color=008bb9">
     </span>
     <span>
-        <img alt="HTML5 Badge" src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=fff&color=e34f26">
+        <img alt="HTML5 Badge" src="https://img.shields.io/badge/HTML5-transparent?style=for-the-badge&logo=html5&logoColor=fff&color=e34f26">
     </span>
     <span>
-        <img alt="CSS Badge" src="https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=css&logoColor=fff&color=%232965f1">
+        <img alt="CSS Badge" src="https://img.shields.io/badge/CSS-transparent?style=for-the-badge&logo=css&logoColor=fff&color=%232965f1">
     </span>
 </section>
 
