@@ -1,4 +1,4 @@
-# 📚 Codecademy Solutions
+# 🧠 Codecademy Solutions
 
 [![Codecadmey Logo](./image/codecademy-logo.png)](https://www.codecademy.com/)
 
@@ -29,7 +29,7 @@
     </span>
 </section>
 
-## 📗 Introduction
+## 📋 Introduction
 
 This repository is my personal space for storing and collecting various projects that I've practiced and built while learning through the [Codecademy](https://www.codecademy.com/) platform. Its primary goal is to track my development, showcase my skills, and share my unique problem-solving approaches. Please note, this repository does NOT contain all content from [Codecademy](https://www.codecademy.com/).
 
@@ -66,7 +66,7 @@ Inside each project directory, you'll find the code files and potentially a READ
 
 ---
 
-## 📖 Table of Contents
+## 📁 Table of Contents
 
 This Table of Contents primarily covers [Career Paths](https://www.codecademy.com/catalog/subject/all), but there's much more to learn on [Codecademy](https://www.codecademy.com/), such as specialized programming languages. If you're interested, [click here](https://www.codecademy.com/).
 
