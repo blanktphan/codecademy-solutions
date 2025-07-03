@@ -2,6 +2,33 @@
 
 [![Codecadmey Logo](./image/codecademy-logo.png)](https://www.codecademy.com/)
 
+<section align="center">
+    <span>
+        <img alt="Python Badge" src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=fff&color=4584b6">
+    </span>
+    <span>
+        <img alt="bash Badge" src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu%20bash&logoColor=fff&color=3e3b3b">
+    </span>
+    <span>
+        <img alt="Git Badge" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=fff&color=F1502F">
+    </span>
+    <span>
+        <img alt="VScode Badge" src="https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=vscode&labelColor=fff&color=0078d7">
+    </span>
+    <span>
+        <img alt="Static Badge" src="https://img.shields.io/badge/sqlite-blue?style=for-the-badge&logo=sqlite&logoColor=fff&color=%23003B57">
+    </span>
+    <span>
+        <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/postgresql-red?style=for-the-badge&logo=postgresql&logoColor=fff&color=008bb9">
+    </span>
+    <span>
+        <img alt="HTML5 Badge" src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=fff&color=e34f26">
+    </span>
+    <span>
+        <img alt="CSS Badge" src="https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=css&logoColor=fff&color=%232965f1">
+    </span>
+</section>
+
 ## 📗 Introduction
 
 This repository is my personal space for storing and collecting various projects that I've practiced and built while learning through the [Codecademy](https://www.codecademy.com/) platform. Its primary goal is to track my development, showcase my skills, and share my unique problem-solving approaches. Please note, this repository does NOT contain all content from [Codecademy](https://www.codecademy.com/).
@@ -9,10 +36,10 @@ This repository is my personal space for storing and collecting various projects
 ### 🎯 Purpose & Goals
 This repository is designed to help me:
 
-* **Track Progress** — Monitor my development in problem-solving and technical skills.
-* **Deepen Understanding** — Enhance my understanding of Software-focused Programmer [career paths](https://www.codecademy.com/catalog/subject/all).
-* **Interview Preparation** — Strengthen my skills for technical interviews and continuous learning.
-* **Knowledge Sharing** — Contribute to the broader programming community.
+* Track Progress — Monitor my development in problem-solving and technical skills.
+* Deepen Understanding — Enhance my understanding of Software-focused Programmer [career paths](https://www.codecademy.com/catalog/subject/all).
+* Interview Preparation — Strengthen my skills for technical interviews and continuous learning.
+* Knowledge Sharing — Contribute to the broader programming community.
 
 ---
 
@@ -28,10 +55,10 @@ Browse the [Table of Contents](#-table-of-contents) to find categories.
 
 Each entry provides essential information:
 
-* **Project Name** — A direct link to the project on [Codecademy](https://www.codecademy.com/).
-* **Description** — A brief summary of what you'll find in that project.
-* **Focus Point** — The main programming languages, tools, or key concepts reinforced by the project.
-* **Directory Link** — Click "Open" to navigate directly to the project's directory, which contains the code and related files.
+* Project Name — A direct link to the project on [Codecademy](https://www.codecademy.com/).
+* Description — A brief summary of what you'll find in that project.
+* Focus Point — The main programming languages, tools, or key concepts reinforced by the project.
+* Directory Link — Click "Open" to navigate directly to the project's directory, which contains the code and related files.
 
 ### Step 3: Explore the Code and Solutions
 
