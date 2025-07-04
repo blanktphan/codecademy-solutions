@@ -13,6 +13,9 @@
         <img alt="Git Badge" src="https://img.shields.io/badge/git-transparent?style=for-the-badge&logo=git&logoColor=fff&color=F1502F">
     </span>
     <span>
+        <img alt="GitHub Badge" src="https://img.shields.io/badge/github-transparent?style=for-the-badge&logo=github&logoColor=fff&color=%23181717">
+    </span>
+    <span>
         <img alt="VScode Badge" src="https://img.shields.io/badge/vscode-transparent?style=for-the-badge&logo=vscode&labelColor=fff&color=0078d7">
     </span>
     <span>
