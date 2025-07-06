@@ -98,7 +98,7 @@ Below is a comprehensive list of all Computer Science projects available in this
 | [Block Letters](https://www.codecademy.com/journeys/computer-science/paths/cscj-22-intro-to-programming/tracks/cscj-22-introduction-to-computer-science-career-path/modules/cscj-22-python-hello-world/projects/python-block-letters) | Create ASCII art by displaying your name using block letters made from text characters. | `Python Syntax`, `Print Statements`, `String Formatting` | [Open](./computer-science/01-block-letters/) |
 | [Receipts for Lovely Loveseats](https://www.codecademy.com/journeys/computer-science/paths/cscj-22-intro-to-programming/tracks/cscj-22-introduction-to-computer-science-career-path/modules/cscj-22-python-hello-world/projects/python-furniture-store) | Build a receipt system for a furniture store that calculates prices, taxes, and customer totals automatically. | `Variables`, `Data Types`, `Arithmetic Operations`, `String Concatenation`, `Mathematical Calculations` | [Open](./computer-science/02-receipts-for-lovely-loveseats/) |
 
-You can [click here](./computer-science/) to see more Computer Science projects.
+You can click [here](./computer-science/) to see more Computer Science projects.
 
 ---
 
