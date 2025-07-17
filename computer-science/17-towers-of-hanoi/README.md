@@ -6,10 +6,6 @@ The Towers of Hanoi is a classic mathematical puzzle involving three rods and a 
 
 ![Challenge for Towers-of-hanoi in Codecademy](./image/image.png)
 
----
-
-### 🎯 Objective
-
 Move the entire stack to the **rightmost rod**, following these rules:
 
 1. 🟢 **One disk at a time:** Only one disk can be moved per turn.
